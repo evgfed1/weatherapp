@@ -1,0 +1,12 @@
+<!--{"coord":{"lon":24.7535,"lat":59.437},-->
+<!--"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],-->
+<!--"base":"stations",-->
+<!--"main":{"temp":2.65,"feels_like":-0.76,"temp_min":1.96,"temp_max":3.3,"pressure":981,"humidity":98},-->
+<!--"visibility":10000,"wind":{"speed":3.6,"deg":230},-->
+<!--"clouds":{"all":75},-->
+<!--"dt":1700733048,-->
+<!--"sys":{"type":1,"id":1330,"country":"EE","sunrise":1700721204,"sunset":1700746888},-->
+<!--"timezone":7200,-->
+<!--"id":588409,-->
+<!--"name":"Tallinn",-->
+<!--"cod":200}-->
