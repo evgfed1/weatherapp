@@ -7,8 +7,8 @@
     <input type='text' v-model='city' placeholder='Text here'>
     <button v-if='city != "" ' type='button' class="btn btn-outline-primary" @click='getWeather()'>Get weather</button>
     <p class='error'>{{ errorMessage }}</p>
-    <p v-show="info != null">Temperature is  °C</p>
-    <p v-show="info != null">Pressure is Pa</p>
+<!--    <p v-show="info != null">Temperature is  °C</p>-->
+<!--    <p v-show="info != null">Pressure is Pa</p>-->
 
   </div>
 
